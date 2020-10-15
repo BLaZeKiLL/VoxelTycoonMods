@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{CE07752B-7CC4-4CE4-8CB6-7D4DD38BF356}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libs", "Libs", "{C8EC1135-B470-4DFF-8C99-476216D27DF6}"
+ProjectSection(SolutionItems) = preProject
+	Libs\libs.md = Libs\libs.md
+EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE07752B-7CC4-4CE4-8CB6-7D4DD38BF356}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE07752B-7CC4-4CE4-8CB6-7D4DD38BF356}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE07752B-7CC4-4CE4-8CB6-7D4DD38BF356}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE07752B-7CC4-4CE4-8CB6-7D4DD38BF356}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
